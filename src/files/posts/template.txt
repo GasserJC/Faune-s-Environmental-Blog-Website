@@ -12,9 +12,9 @@ ADD BLOG TEXT HERE (AFTER PIC)
 <div/>
 
 
+
 <!--
 Cheat Sheet:
-
 <h2> </h2>       bigger text    (Ex: <h2>This is Big</h2>) This also causes a new line.
 <br/>     New Line
 <strong> </strong>      Bold (Ex: <strong>This is Bolded</strong>)

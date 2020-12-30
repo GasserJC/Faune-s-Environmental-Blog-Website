@@ -30,6 +30,7 @@ app.get('/OldPost/:title', (req, res) => {
 })
 
 app.get('/Archives', async (req, res) => {
+  try{
   var files = await fs.readdirSync(path.join(__dirname, 'files/posts'));
   InputData = "{ ";
   counter = 0
@@ -38,7 +39,7 @@ app.get('/Archives', async (req, res) => {
     if(stringTitle != 'template.txt'){
       if(0 == counter){
         InputData += '"titles":' + `["${stringTitle.slice(0, -4)}" ,`
-      } else if( files.length-2 == counter) {
+      } else if( files.length-counter-1 == 1) {
         InputData += `"${stringTitle.slice(0, -4)}"] }`
       }
       else { 
@@ -49,6 +50,9 @@ app.get('/Archives', async (req, res) => {
   })
   InputData = JSON.parse(InputData)
   res.render('Archives.pug', InputData)
+ } catch{
+  res.render('Other.pug')
+ }
 })
 
 app.get('/Other', (req, res) => {

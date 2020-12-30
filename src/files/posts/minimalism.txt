@@ -1,0 +1,45 @@
+<div class="container">
+<h1 class="title" > Minimalism  </h1>
+<p style= "padding-right: 50%"></p> 
+
+I believe our biggest harm towards our planet is overconsumption. The more we buy; the more resources are needed to manufacture, package, and transport. 
+The more we buy; the more objects are thrown away. The more we buy; the more our environment is infiltrated with harmful substances. 
+We buy all these items without thinking about whether we need them or not. We buy all these items thinking it is what we are supposed to do. 
+Our overconsumption not only hurts the environment, it also hurts our mental well-being.
+
+<br/><br/>
+
+<img  class="floated-right" style="width: 30%" src="../mini.png"/>
+
+Our overconsumption and our desire for more does not fulfill the illusion of happiness buying gives.  
+Even though we are told by marketers and society that we need certain objects, we end up not needing them at all. 
+We are given the false feeling of satisfaction that ends up fading away after we purchase items. 
+Being minimalistic, however, does not mean we have to give up things we enjoy. 
+After watching the documentary Minimalism: A Documentary About the Important Things directed by Matt D’Avella, 
+The Minimalists say being a minimalist means we only have items that give us value. 
+The measurement of value can vary from person to person, object to object.
+
+<br/><br/>
+
+The point of the matter is to only have belongings that fulfill a meaningful person in our lives. 
+In order for America and even the world to become minimalistic, there needs to be a drastic change in societal norms. 
+Americans make up less than 5% of the world’s population yet according to the Frontier Group we account for more than 30% of the world’s waste. 
+After acknowledging this piece of information, it is hard to say we do not have a problem. 
+The first step towards minimalism and the first step towards being more environmentally aware is thinking before you buy. 
+
+<br/><br/>
+
+If you stop and think, ‘Do I really need this?’ or ‘Is this going to bring value to my life?’ or even 
+‘Am I getting this because I want it or someone else is telling me I want it?’ To take a more environmental awareness approach, 
+you can think to yourself ‘Where is this going to end up when I am done with it?’ or ‘Can I reuse or recycle it?’ If no is the answer 
+to either of those questions, you should probably reassess how much you need it or if you can find a friendlier alternative. 
+<div/>
+
+<!--
+Cheat Sheet:
+
+<h2> </h2>       bigger text    (Ex: <h2>This is Big</h2>) This also causes a new line.
+<br/>     New Line
+<strong> </strong>      Bold (Ex: <strong>This is Bolded</strong>)
+<em> </em>        italisized 
+-->
