@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-    color: #f1fefe;
+    color: #66ff99;
     text-decoration: none;
 }
 
@@ -53,12 +53,13 @@ a:hover {
 }
 
 .floated-right{
-    width: 60%;
+    width: 40%;
     float: right;
     padding: 2%;
 }
 
 .floated-left{
-    width: 60%;
-    float: right;
+    width: 40%;
+    float: left;
+    padding: 2%;
 }

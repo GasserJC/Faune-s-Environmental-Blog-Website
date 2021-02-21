@@ -1,16 +1,14 @@
-<h1> PLACE TITLE HERE </h1>
+<div class="container">
+<h1 class="title" > Title  </h1>
 <p style= "padding-right: 50%"></p> 
 
-<div class="container">
+text
 
-ADD BLOG TEXT HERE (BEFORE PIC)
+<img  class="floated-right" style="width: 30%" src="../mini.png"/>
 
-<img class="floated" src="../ADD IMG FILE HERE "/>
-
-ADD BLOG TEXT HERE (AFTER PIC)
+text
 
 <div/>
-
 
 
 <!--
